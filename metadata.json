@@ -1,0 +1,6 @@
+{
+  "name": "FerreStock Pro - Sistema de Inventario Ferretería & App Móvil QR",
+  "description": "Plataforma integral de gestión de inventario en tiempo real para ferreterías con panel administrativo web, sincronización de stock y app móvil Android con lector QR.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
